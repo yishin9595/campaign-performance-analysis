@@ -79,16 +79,17 @@
 
 ### 2026-09 Channel & Campaign 成效
 
-<img width="2049" height="405" alt="2026-09 各渠道成效表" src="https://github.com/user-attachments/assets/f0795537-9c91-4097-a4de-135d528b84fb" />
-<img width="2137" height="743" alt="2026-09 各 campaign 成效表" src="https://github.com/user-attachments/assets/0d92b376-9cb6-4d43-ab49-881b845d779a" />
+<img width="2056" height="409" alt="2026-09 各渠道成效表" src="https://github.com/user-attachments/assets/8b6c571e-ffaa-491f-b64c-35e7314dd00c" />
+<img width="2148" height="745" alt="2026-09 各 campaign 成效表" src="https://github.com/user-attachments/assets/8101fd24-444b-45c3-9338-6dfe54ac55cc" />
+<img width="2204" height="803" alt="2026-09 渠道 x campaign 成效表" src="https://github.com/user-attachments/assets/2c2cd9d5-551e-43ac-ae87-ee316df31abb" />
 
 - **Display 渠道是主要拖累**：ROAS 只有 0.56x，CPA 為 159.64，投入成本尚未回收。
-- **問題集中在 `developer-outreach` 活動**：其 ROAS 同樣為 0.56x、CPA 為 159.98，與 Display 整體數字幾乎一致，顯示 Display 的低效率主要由此活動造成，而非整個渠道都表現不佳。該活動轉換數雖然只有 12 次，但與整體水準差距過大，建議先降低預算。
+- **問題集中在 `developer-outreach` 活動**：其 ROAS 同樣為 0.56x、CPA 為 159.98，且 Display 整個渠道都表現不佳，該活動轉換數雖然只有 12 次，但與整體水準差距過大，建議先降低預算。
 
 ## 商業建議
 
 1. **驗證 Email 的實際貢獻**：Email 多寄給既有客戶，部分購買即使不寄信也會發生，因此報表上的營收可能被高估。建議將客戶隨機分為寄信組與不寄信組，比較兩組的購買差異，確認 Email 真正帶來的額外營收，再決定是否擴大投入
-2. **處理 `developer-outreach` 的低效率**：先降低預算，並檢查其素材、版位、受眾與落地頁，同時確認追蹤與歸因設定是否正常。
+2. **Display 渠道整體表現不佳**：需要先降低預算，並檢查渠道內的活動素材、版位、受眾與落地頁，同時確認追蹤與歸因設定是否正常
 3. **複製 `case-study-promo` 的成功經驗**：拆解其素材、受眾與轉換流程，測試能否在其他活動中也有相同優秀表現。
 
 
